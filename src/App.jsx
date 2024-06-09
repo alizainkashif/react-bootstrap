@@ -5,6 +5,7 @@ const App = () => {
   return (
     <>
     <h1 className='text-center p-8 text-bg-dark' > Ali Zain Kashif</h1>
+    <h1 className='text-center p-8 text-bg-dark' > Prof Amjad Sahib</h1>
     </>
   )
 }
